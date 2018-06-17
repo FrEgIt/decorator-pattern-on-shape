@@ -20,4 +20,4 @@ $ make launch
 
 ## License
 
-There is no license. It's an open source project.
+There is a CC-BY-SA's license. It's an open source project.
